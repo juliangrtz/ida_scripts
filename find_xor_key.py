@@ -1,10 +1,7 @@
 import idautils
 import idc
 
-
-def get
-
-
+# UNFINISHED! DO NOT RUN IN IDA!
 
 def getInitList():
     # SegmentAdd
